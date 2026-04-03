@@ -1,0 +1,27 @@
+Balance Due in the Cruise Industry (What it is & why it matters)
+	Balance due is the remaining payment owed on a cruise booking after the initial deposit has been applied.
+	Booking lifecycle: inquiry → deposit → balance due → sailing date.
+	Why it matters: timely payment protects the booking, avoids automatic cancellation, and ensures onboard credits or promotions remain valid.
+
+How Balance Due Is Calculated
+	Total fare (cruise fare + taxes + fees + optional add-ons) minus deposit paid = balance due.
+	Add-ons that affect balance: shore excursions pre-booked, drink/dining packages, travel insurance, port charges.
+	Currency and exchange-rate considerations for international passengers.
+
+Balance Due Dates & Industry Standards
+	Most major cruise lines require full payment 60–120 days before departure (varies by line and itinerary length).
+	Luxury and expedition cruises often require earlier payment (90–120 days out).
+	Last-minute bookings (inside the final-payment window): full fare due at time of booking.
+	Group bookings may carry customised payment schedules negotiated with the cruise line.
+
+Consequences of Missing the Balance Due Date
+	Automatic cancellation: reservation is released back into inventory if payment is not received by the due date.
+	Loss of deposit: standard cancellation policies typically forfeit the deposit after the final-payment deadline passes.
+	Rebooking risks: cabin category or pricing may no longer be available; promotional rates usually cannot be re-applied.
+	Impact on travel agents: commission charge-backs and client relationship damage.
+
+Best Practices for Managing Balance Due
+	Automated reminders: send notifications at 90, 60, and 30 days before the due date.
+	Multiple payment options: credit/debit card, bank transfer, instalment plans where offered.
+	Travel insurance: recommend at time of deposit to cover cancellation risk before balance is paid.
+	Agent responsibilities: confirm payment receipt, update booking records, and issue revised confirmation to guests.
